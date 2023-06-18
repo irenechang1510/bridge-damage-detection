@@ -1,2 +1,4 @@
-# bridge-damage-detection
-Data Science Capstone project: Applying Joint Distribution Adaptation to bridge damage detection task
+# Bridge Damage Detection using Joint Distribution Adaptation
+Data Science Capstone project: Applying Joint Distribution Adaptation to Bridge Damage Detection task
+
+Paper can be found [here]()
